@@ -23,5 +23,5 @@
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/YourUsername/RealJarvis.git
+git clone https://github.com/Pranu825/Jarvis.git
 cd RealJarvis
